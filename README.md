@@ -1,0 +1,1 @@
+# majnemizalex.hu
