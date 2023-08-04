@@ -1,0 +1,35 @@
+.text1 {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 35px;
+    -webkit-text-stroke: 1px;
+    -webkit-text-stroke-color: aliceblue;
+}
+body {
+    background: rgb(181,179,207);
+background: linear-gradient(90deg, rgba(181,179,207,1) 0%, rgba(9,121,18,1) 35%, rgba(0,212,255,1) 100%);
+}
+h1 {
+    text-align: center;
+    font-size: 100px;
+}
+.button3insta {
+    margin-top: -60px;
+    margin-left: 800px;
+}
+.robloxbutton {
+    margin-top: -320px;
+    margin-left: 800px;
+}
+.suprise {
+    margin-top: -60px;
+    margin-left: 1100px;
+}
+li {
+    text-align: center;
+    font-size: 50px;
+}
+.logo {
+    margin-top: -530px;
+    margin-left: 100px;
+    border-radius: 50%;
+}
