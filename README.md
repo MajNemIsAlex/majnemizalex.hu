@@ -1,1 +1,1 @@
-# majnemizalex.hu
+# majnemizalex.github.io
